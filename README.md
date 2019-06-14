@@ -1,3 +1,9 @@
+# This is my first web application using React
+This app is a simple ToDo list where you can add, remove and check out your todo list.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
